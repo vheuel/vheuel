@@ -12,5 +12,8 @@ Visit my websites at [https://vul.my.id](https://vul.my.id)
 
 ## Contact
 - Email: me@vul.my.id
-- Twitter:  [Twitter](https://twitter.com/vheuel).
+- Twitter:  [@vheuel](https://twitter.com/vheuel).
 
+## Donates
+- Patreon:[vheuel](https://patreon.com/vheuel).
+- Ko-fi: [vheuel](https://ko-fi.com/vheuel).
