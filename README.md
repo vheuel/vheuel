@@ -3,7 +3,6 @@ I'm a IT Enthusiast. I am passionate about Web Development, UI & UX Design, Cryp
 
 ## Recent Projects
 - [PFE - Plankton! ](https://github.com/vheuel/plankton): Front end framework
-- [Horizon](https://vul.my.id/horizon): Bluesky web client
 ## Contact
 - Email: me@vul.my.id
 - Twitter:  [@vheuel](https://twitter.com/vheuel).
