@@ -2,7 +2,7 @@
 I'm a IT Enthusiast. I am passionate about Web Development, UI & UX Design, Crypto and AI
 
 ## Trademarks
-- __LOGO__ 
+- __LOGO__ <br>
 <img src="assets/images/logo vheuel.png"/><br>
 
 
