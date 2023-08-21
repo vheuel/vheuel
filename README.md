@@ -3,9 +3,8 @@ I'm a IT Enthusiast. I am passionate about Web Development, UI & UX Design, Cryp
 
 ## Trademarks
 - __LOGO__ 
-<img src="assets/images/logo vheuel.png"/>
-- __ICON__
-<img src="assets/images/Icon.png"/>
+<img src="assets/images/logo vheuel.png" height="90"/><br>
+- __ICON__ <img src="assets/images/Icon.png" height="90"/>
 
 ## Recent Projects
 - [PFE - Plankton! ](https://github.com/vheuel/plankton): Front end framework
