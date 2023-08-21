@@ -4,6 +4,8 @@ I'm a IT Enthusiast. I am passionate about Web Development, UI & UX Design, Cryp
 ## Trademarks
 - __LOGO__ 
 <img src="assets/images/logo vheuel.png"/><br>
+
+
 - __ICON__ <br> <img src="assets/images/Icon.png" width="60"/><img src="assets/images/Icon Square Green.png" width="60"/> <img src="assets/images/Icon Square Black.png" width="60"/>
 
 ## Recent Projects
