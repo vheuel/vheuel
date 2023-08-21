@@ -1,6 +1,12 @@
 ### Howdy, I am Vheüel Roman
 I'm a IT Enthusiast. I am passionate about Web Development, UI & UX Design, Crypto and AI
 
+## Trademarks
+- __LOGO__ 
+<img src="assets/images/logo vheuel.png"/>
+- __ICON__
+<img src="assets/images/Icon.png"/>
+
 ## Recent Projects
 - [PFE - Plankton! ](https://github.com/vheuel/plankton): Front end framework
 - [Horizon ](https://github.com/vheuel/horizon): Bluesky web client
