@@ -1,5 +1,5 @@
 ### Howdy, I am Vheüel Roman
-I'm a IT Enthusiast. I am passionate about Web Development, UI & UX Design, Crypto and AI
+I'm a IT Enthusiast. I am passionate about Web Development, UI & UX Design, Crypto and AI.
 
 ## Trademarks
 - __LOGO__ <br>
