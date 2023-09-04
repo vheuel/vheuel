@@ -10,4 +10,4 @@ I'm a IT Enthusiast. I am passionate about Web Development, UI & UX Design, Cryp
 
 - __OLD ICON__ <br> <img src="assets/images/old icon.png" width="60" alt="vheuel old icon"/>
 
-
+<a rel="me" href="https://mastodon.social/@vheuel">Mastodon</a>
