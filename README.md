@@ -63,7 +63,8 @@ TWjbN4G1JLFgMWb23JVma9uqiZykXLWDAh
 <h3> Connect with me </h3>
 
 
-[![Mastodon](https://img.shields.io/badge/vheuel%20-%23000000.svg?&style=for-the-badge&logo=mastodon&logoColor=fff&color=6364ff)](https://mastodon.com/vheuel)  [![X](https://img.shields.io/badge/vheuel%20-%23000000.svg?&style=for-the-badge&logo=x&logoColor=fff&color=000)](https://x.com/vheuel)  [![Reddit](https://img.shields.io/badge/vheuel%20-%23000000.svg?&style=for-the-badge&logo=reddit&logoColor=fff&color=FF4500)](https://www.reddit.com/user/Vheuel/) [![Bluesky](https://img.shields.io/badge/vheuel%20-%23000000.svg?&style=for-the-badge&logo=veepee&logoColor=fff&color=0485FE)](https://bsky.app/profile/vheuel.bsky.social) 
+[![Mastodon](https://img.shields.io/badge/vheuel%20-%23000000.svg?&style=for-the-badge&logo=mastodon&logoColor=fff&color=6364ff)](https://mastodon.com/vheuel){:rel="me"}
+ [![X](https://img.shields.io/badge/vheuel%20-%23000000.svg?&style=for-the-badge&logo=x&logoColor=fff&color=000)](https://x.com/vheuel)  [![Reddit](https://img.shields.io/badge/vheuel%20-%23000000.svg?&style=for-the-badge&logo=reddit&logoColor=fff&color=FF4500)](https://www.reddit.com/user/Vheuel/) [![Bluesky](https://img.shields.io/badge/vheuel%20-%23000000.svg?&style=for-the-badge&logo=veepee&logoColor=fff&color=0485FE)](https://bsky.app/profile/vheuel.bsky.social) 
 
 *Nostr*
 ```
