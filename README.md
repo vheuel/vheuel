@@ -43,23 +43,17 @@ To turn this vision into reality, you can support me through the link below. You
 
 35bwse1kTm4hYKewGuAT4bY3iKj31KCqyS
 
-```
-```
+
 *Doge*
 
 ```
-
 DGXjAN3wz3XLky3Uxd3rQyGhQTYxk4ctg5
 
-```
 
 *Etherium*
 
 ```
-
 0x9ec43eb9801164540a0054ed81a142b97c0b924b
-
-```
 
 *Usdt (trc20)*
 
