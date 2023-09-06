@@ -44,21 +44,17 @@ To turn this vision into reality, you can support me through the link below. You
 ```
 
 *Doge*
-
-
+```
 DGXjAN3wz3XLky3Uxd3rQyGhQTYxk4ctg5
 ```
 
 *Etherium*
-
-
+```
 0x9ec43eb9801164540a0054ed81a142b97c0b924b
 ```
 
 *Usdt (trc20)*
-
-
- 
+```
 TWjbN4G1JLFgMWb23JVma9uqiZykXLWDAh
 ```
 
@@ -70,9 +66,7 @@ TWjbN4G1JLFgMWb23JVma9uqiZykXLWDAh
 [![Mastodon](https://img.shields.io/badge/vheuel%20-%23000000.svg?&style=for-the-badge&logo=mastodon&logoColor=fff&color=6364ff)](https://mastodon.com/vheuel)  [![X](https://img.shields.io/badge/vheuel%20-%23000000.svg?&style=for-the-badge&logo=x&logoColor=fff&color=000)](https://x.com/vheuel)  [![Reddit](https://img.shields.io/badge/vheuel%20-%23000000.svg?&style=for-the-badge&logo=reddit&logoColor=fff&color=FF4500)](https://www.reddit.com/user/Vheuel/) [![Bluesky](https://img.shields.io/badge/vheuel%20-%23000000.svg?&style=for-the-badge&logo=veepee&logoColor=fff&color=0485FE)](https://bsky.app/profile/vheuel.bsky.social) 
 
 *Nostr*
-
-
-
+```
 npub1k36p054w4h3gfza672u0q2elq9234mzx2qxksnwgc09emhrkzvusc8hcs3
  ```
 
