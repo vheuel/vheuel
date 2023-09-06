@@ -1,11 +1,11 @@
-<h2><center><picture>
+<h3><center><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/vheuel/vheuel/raw/main/assets/images/wordmark.dark.png?raw=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/vheuel/vheuel/raw/main/assets/images/wordmark.light.png?raw=true">
   <img alt="Vheüel" src="https://github.com/vheuel/vheuel/raw/main/assets/images/wordmark.light.png?raw=true" height="60">
 </picture>
-
+<br>
 Bridge of internet freedom
-</center></h2>
+</center></h3>
 
 
 <br><br>
@@ -40,20 +40,20 @@ To turn this vision into reality, you can support me through the link below. You
 
 *Bitcoin*
 
-`35bwse1kTm4hYKewGuAT4bY3iKj31KCqyS`
+``35bwse1kTm4hYKewGuAT4bY3iKj31KCqyS``
 
 *Doge*
 
-`DGXjAN3wz3XLky3Uxd3rQyGhQTYxk4ctg5`
+`` DGXjAN3wz3XLky3Uxd3rQyGhQTYxk4ctg5``
 
 *Etherium*
 
-`0x9ec43eb9801164540a0054ed81a142b97c0b924b`
-
+``0x9ec43eb9801164540a0054ed81a142b97c0b924b
+``
 
 *Usdt (trc20)*
 
-`TWjbN4G1JLFgMWb23JVma9uqiZykXLWDAh`
+``TWjbN4G1JLFgMWb23JVma9uqiZykXLWDAh``
 
 <br>
 
@@ -64,7 +64,7 @@ To turn this vision into reality, you can support me through the link below. You
 
 *Nostr*
 
-`npub1k36p054w4h3gfza672u0q2elq9234mzx2qxksnwgc09emhrkzvusc8hcs3`
+``npub1k36p054w4h3gfza672u0q2elq9234mzx2qxksnwgc09emhrkzvusc8hcs3``
 
 
 
