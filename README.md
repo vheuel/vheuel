@@ -3,7 +3,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/vheuel/vheuel/raw/main/assets/images/wordmark.light.png?raw=true">
   <img alt="Vheüel" src="https://github.com/vheuel/vheuel/raw/main/assets/images/wordmark.light.png?raw=true" height="60">
 </picture>
-<br>
+<br><br>
 Bridge of internet freedom
 </center></h3>
 
