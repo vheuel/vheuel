@@ -10,7 +10,7 @@ Bridge of internet freedom
 
 <br><br>
 
-👋 Hello there, I'm **Vheüel Roman**.
+👋 Hello there, I'm **Vheüel Roman**
 
 🚀 As an IT enthusiast, I am passionate about UI & UX Design, Fediverse, Crypto, and AI. I have a mission to build a decentralized ecosystem.
 
