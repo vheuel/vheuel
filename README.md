@@ -62,7 +62,7 @@ TWjbN4G1JLFgMWb23JVma9uqiZykXLWDAh
 
 *Nostr*
 ```
-npub1k36p054w4h3gfza672u0q2elq9234mzx2qxksnwgc09emhrkzvusc8hcs3
+npub1kme6h29h7ju0e6hm6uv7tgj0tq7yx2amuse3xet26v6cgnpa8rfqwfy3g3
  ```
 
 
