@@ -12,11 +12,7 @@ Bridge of internet freedom
 
 👋 Hello there, I'm **Vheüel Roman**
 
-🚀 As an IT enthusiast, I am passionate about UI & UX Design, Fediverse, Crypto, and AI. I have a mission to build a decentralized ecosystem.
-
-💡 What's the vision? A free and decentralized internet with no restrictions or censorship.
-
-🌐 Join me on this exciting journey where technology meets freedom. Explore the projects, share your thoughts, and let's make the internet a more open and inclusive space together!
+🚀 As an IT enthusiast, I am passionate about UI & UX Design, Fediverse, Crypto, and AI.
 
 
 
