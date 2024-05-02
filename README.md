@@ -28,8 +28,6 @@
 </center>
 
 ### Support me 
-To turn this vision into reality, you can support me through the link below. Your support will empower me to develop tools and technologies that champion internet freedom.
-
 [![Patreon](https://img.shields.io/badge/vheuel%20-%23000000.svg?&style=flat&logo=patreon&logoColor=fff&color=f96854)](https://patreon.com/vheuel)  [![Kofi](https://img.shields.io/badge/vheuel%20-%23000000.svg?&style=flat&logo=kofi&logoColor=fff&color=13C3FF)](https://ko-fi.com/vheuel) [![BuyMeACoffe](https://img.shields.io/badge/vheuel%20-%23000000.svg?&style=flat&logo=buymeacoffee&logoColor=000&color=FFDD00)](https://buymeacoffee.com/vheuel)  [![Getalby](https://img.shields.io/badge/vheuel@getalby.com%20-%23000000.svg?&style=flat&logo=getalby&logoColor=fff&color=FFDF6E)](https://getalby.com/p/vheuel)  [![liberapay](https://img.shields.io/badge/vheuel%20-%23000000.svg?&style=flat&logo=liberapay&logoColor=fff&color=F6C914)](https://liberapay.com/vheuel)  
 
 
