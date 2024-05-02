@@ -4,7 +4,6 @@
   <img alt="Vheüel" src="https://github.com/vheuel/vheuel/raw/main/assets/images/wordmark.light.png?raw=true" height="60">
 </picture>
 <br><br>
-Bridge of internet freedom
 </center></h3>
 
 
