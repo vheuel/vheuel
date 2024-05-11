@@ -11,7 +11,7 @@
 
 👋 Hello there, I'm **Vheüel Roman**
 
-🚀 As an IT enthusiast, I am passionate about UI & UX Design, Fediverse, Crypto, and AI.
+🚀 IT enthusiast, passionate about UI & UX Design, Fediverse, Crypto, and AI.
 
 
 
