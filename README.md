@@ -9,7 +9,7 @@
 
 
 
-👋 Hello there, I'm **Vheüel Roman**
+👋 Hello there, I'm **Vheüel**
 
 🚀 IT enthusiast, passionate about UI & UX Design, Fediverse, Crypto, and AI.
 
