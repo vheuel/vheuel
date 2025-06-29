@@ -30,20 +30,23 @@
 ### Support me 
 [![Patreon](https://img.shields.io/badge/vheuel%20-%23000000.svg?&style=flat&logo=patreon&logoColor=fff&color=f96854)](https://patreon.com/vheuel)  [![Kofi](https://img.shields.io/badge/vheuel%20-%23000000.svg?&style=flat&logo=kofi&logoColor=fff&color=13C3FF)](https://ko-fi.com/vheuel) [![BuyMeACoffe](https://img.shields.io/badge/vheuel%20-%23000000.svg?&style=flat&logo=buymeacoffee&logoColor=000&color=FFDD00)](https://buymeacoffee.com/vheuel)  [![Getalby](https://img.shields.io/badge/vheuel@getalby.com%20-%23000000.svg?&style=flat&logo=getalby&logoColor=fff&color=FFDF6E)](https://getalby.com/p/vheuel)  [![liberapay](https://img.shields.io/badge/vheuel%20-%23000000.svg?&style=flat&logo=liberapay&logoColor=fff&color=F6C914)](https://liberapay.com/vheuel)  
 
+*Evm*
+```
+0xb6b7Bd8f2D60434a8043c6B2ADeb6B008783a51c
+```
 
 *Bitcoin*
 ```
-35bwse1kTm4hYKewGuAT4bY3iKj31KCqyS
+bc1qegvncsjgrjt4gy25mgvt6dl7eskw6l8rxjmn93
+```
+*XRP*
+```
+rL7DqYCU35AvdF4mnALJPyxT5Df5HvAJ9s
 ```
 
-*Doge*
+*SOL*
 ```
-DGXjAN3wz3XLky3Uxd3rQyGhQTYxk4ctg5
-```
-
-*Usdt (trc20)*
-```
-TWjbN4G1JLFgMWb23JVma9uqiZykXLWDAh
+HB8TjMcVoiAhWKXWt2fq7V3AVcvm5Ughk1YR9m1cL69X
 ```
 
 <br>
