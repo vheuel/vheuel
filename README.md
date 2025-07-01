@@ -55,7 +55,7 @@ HB8TjMcVoiAhWKXWt2fq7V3AVcvm5Ughk1YR9m1cL69X
 
 
 <a href="https://mastodon.social/@vheuel" rel="me"><img src="https://img.shields.io/badge/vheuel%20-%23000000.svg?&style=for-the-badge&logo=mastodon&logoColor=fff&color=6364ff" alt="Mastodon"></a> [![X](https://img.shields.io/badge/vheuel%20-%23000000.svg?&style=for-the-badge&logo=x&logoColor=fff&color=000)](https://x.com/vheuel)  [![Reddit](https://img.shields.io/badge/vheuel%20-%23000000.svg?&style=for-the-badge&logo=reddit&logoColor=fff&color=FF4500)](https://www.reddit.com/user/Vheuel/) 
-*Nostr*
+<br>*Nostr*
 ```
 npub1kme6h29h7ju0e6hm6uv7tgj0tq7yx2amuse3xet26v6cgnpa8rfqwfy3g3
  ```
