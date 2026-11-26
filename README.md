@@ -9,8 +9,8 @@
   <p>Building web applications, crypto tools, and open-web integrations.</p>
 
   <p>
-    <a href="https://x.com/vheuel"><img src="https://img.shields.io/badge/X-@vheuel-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
-    <a href="https://www.reddit.com/user/Vheuel/"><img src="https://img.shields.io/badge/Reddit-u/Vheuel-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit"></a>
+    <a href="https://x.com/vheuel"><img src="https://img.shields.io/badge/X-@vheuel-000000?style=flat-square&logo=x&logoColor=white" alt=""></a>
+    <a href="https://www.reddit.com/user/Vheuel/"><img src="https://img.shields.io/badge/Reddit-u/Vheuel-FF4500?style=flat-square&logo=reddit&logoColor=white" alt=""></a>
     <a href="https://njump.me/npub1kme6h29h7ju0e6hm6uv7tgj0tq7yx2amuse3xet26v6cgnpa8rfqwfy3g3"><img src="https://img.shields.io/badge/Nostr-vheuel-8E30EB?style=flat-square&logo=nostr&logoColor=white" alt="Nostr"></a>
   </p>
 </div>
