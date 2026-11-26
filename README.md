@@ -19,7 +19,7 @@
 
 ### About Me
 
-I'm **Vheüel**, a fullstack and Web3 developer. I build fast, reliable web applications and explore practical intersections between **Web3**, **Decentralized protocols (Fediverse & Nostr)**, and **AI**.
+I'm **Vheüel**, a fullstack and Web3 developer. I build fast, reliable web applications and explore practical intersections between **Web3**, **Decentralized protocols**, and **AI**.
 
 - **Fullstack Web:** End-to-end web development with TypeScript, React, Next.js, Node.js, Go, and PHP—focusing on performance, clean logic, and zero bloat.
 - **Web3 :** Wallet integrations, on-chain data feeds, and market utilities across EVM, Solana, and Bitcoin.
