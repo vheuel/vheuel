@@ -9,8 +9,8 @@
   <p>Building web applications, crypto tools, and open-web integrations.</p>
 
   <p>
-    <a href="https://x.com/vheuel"><img src="https://img.shields.io/badge/X-@vheuel-000000?style=flat-square&logo=x&logoColor=white" alt=""></a>
-    <a href="https://www.reddit.com/user/Vheuel/"><img src="https://img.shields.io/badge/Reddit-u/Vheuel-FF4500?style=flat-square&logo=reddit&logoColor=white" alt=""></a>
+    <a href="https://x.com/vheuel"><img src="https://img.shields.io/badge/@vheuel-000000?style=flat-square&logo=x&logoColor=white" alt=""></a>
+    <a href="https://www.reddit.com/user/Vheuel/"><img src="https://img.shields.io/badge/u/Vheuel-FF4500?style=flat-square&logo=reddit&logoColor=white" alt=""></a>
     <a href="https://njump.me/npub1kme6h29h7ju0e6hm6uv7tgj0tq7yx2amuse3xet26v6cgnpa8rfqwfy3g3"><img src="https://img.shields.io/badge/Nostr-vheuel-8E30EB?style=flat-square&logo=nostr&logoColor=white" alt="Nostr"></a>
   </p>
 </div>
@@ -21,7 +21,7 @@
 
 I'm **Vheüel**, a fullstack and Web3 developer. I build fast, reliable web applications and explore practical intersections between **Web3**, **Decentralized protocols**, and **AI**.
 
-- **Fullstack Web:** End-to-end web development with TypeScript, React, Next.js, Node.js, Go, and PHP—focusing on performance, clean logic, and zero bloat.
+- **Fullstack Web:** End-to-end web development with TypeScript, React, Next.js, Node.js, Go, and Python—focusing on performance, clean logic, and zero bloat.
 - **Web3 :** Wallet integrations, on-chain data feeds, and market utilities across EVM, Solana, and Bitcoin.
 - **Open Protocols:** Lightweight clients and tools built around Nostr and the Fediverse.
 - **AI Tooling:** Practical AI integrations and custom workflow utilities.
