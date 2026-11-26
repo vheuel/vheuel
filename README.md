@@ -19,10 +19,10 @@
 
 ### About Me
 
-I'm **Vheüel**, a fullstack and Web3 developer. I build fast, reliable web applications and explore practical intersections between **crypto/Web3**, **decentralized social protocols (Fediverse & Nostr)**, and **AI**.
+I'm **Vheüel**, a fullstack and Web3 developer. I build fast, reliable web applications and explore practical intersections between **Web3**, **Decentralized protocols (Fediverse & Nostr)**, and **AI**.
 
 - **Fullstack Web:** End-to-end web development with TypeScript, React, Next.js, Node.js, Go, and PHP—focusing on performance, clean logic, and zero bloat.
-- **Web3 & Crypto:** Wallet integrations, on-chain data feeds, and market utilities across EVM, Solana, and Bitcoin.
+- **Web3 :** Wallet integrations, on-chain data feeds, and market utilities across EVM, Solana, and Bitcoin.
 - **Open Protocols:** Lightweight clients and tools built around Nostr and the Fediverse.
 - **AI Tooling:** Practical AI integrations and custom workflow utilities.
 
@@ -37,40 +37,17 @@ I'm **Vheüel**, a fullstack and Web3 developer. I build fast, reliable web appl
 | **Backend & Cloud** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) |
 | **Tools & OS** | ![Git](https://img.shields.io/badge/Git-E44C30?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat-square&logo=vite&logoColor=FFD62E) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white) |
 
----
 
-### GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/vheuel">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vheuel&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
-  </a>
-</div>
 
 ---
 
-### Support & Wallets
+### Support
 
 If you find my projects useful, feel free to connect or leave a tip:
 
-<p>
-  <a href="https://patreon.com/vheuel"><img src="https://img.shields.io/badge/Patreon-vheuel-F96854?style=flat-square&logo=patreon&logoColor=white" alt="Patreon"></a>
-  <a href="https://ko-fi.com/vheuel"><img src="https://img.shields.io/badge/Ko--fi-vheuel-13C3FF?style=flat-square&logo=kofi&logoColor=white" alt="Ko-fi"></a>
-  <a href="https://buymeacoffee.com/vheuel"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-vheuel-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee"></a>
-  <a href="https://getalby.com/p/vheuel"><img src="https://img.shields.io/badge/Lightning-vheuel@getalby.com-FFDF6E?style=flat-square&logo=getalby&logoColor=black" alt="Getalby"></a>
-  <a href="https://liberapay.com/vheuel"><img src="https://img.shields.io/badge/Liberapay-vheuel-F6C914?style=flat-square&logo=liberapay&logoColor=black" alt="Liberapay"></a>
-</p>
-
-<details>
-  <summary><strong>Crypto Addresses & Nostr Key</strong></summary>
-  <br>
-
-  | Network | Address / Key |
-  | :--- | :--- |
-  | **Nostr** | `npub1kme6h29h7ju0e6hm6uv7tgj0tq7yx2amuse3xet26v6cgnpa8rfqwfy3g3` |
-  | **EVM** | `0xb6b7Bd8f2D60434a8043c6B2ADeb6B008783a51c` |
-  | **Bitcoin** | `bc1qegvncsjgrjt4gy25mgvt6dl7eskw6l8rxjmn93` |
-  | **XRP** | `rL7DqYCU35AvdF4mnALJPyxT5Df5HvAJ9s` |
-  | **Solana** | `HB8TjMcVoiAhWKXWt2fq7V3AVcvm5Ughk1YR9m1cL69X` |
-
-</details>
+| Network | Address |
+| :--- | :--- |
+| **EVM** | `0xb6b7Bd8f2D60434a8043c6B2ADeb6B008783a51c` |
+| **Bitcoin** | `bc1qegvncsjgrjt4gy25mgvt6dl7eskw6l8rxjmn93` |
+| **XRP** | `rL7DqYCU35AvdF4mnALJPyxT5Df5HvAJ9s` |
+| **Solana** | `HB8TjMcVoiAhWKXWt2fq7V3AVcvm5Ughk1YR9m1cL69X` |
